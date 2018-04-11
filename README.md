@@ -7,7 +7,7 @@
 
 ## Installing
 
- - Download or clone this repo `git clone`
+ - Download or clone this repo `git clone https://github.com/Rich2k/Scraper`
  - Install the dependencies `composer install`
 
 If you do not have composer it can be downloaded here: https://getcomposer.org/download/
