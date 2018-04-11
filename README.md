@@ -12,6 +12,11 @@
 
 If you do not have composer it can be downloaded here: https://getcomposer.org/download/
 
+If you do not have PHP 7.1. installed locally you can use Homebrew on macOS
+
+https://brew.sh/
+https://developerjack.com/blog/2016/installing-php71-with-homebrew/
+
 ## Running
 
  - Change directory into the downloaded repository `cd scraper`
